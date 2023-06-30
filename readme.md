@@ -14,10 +14,11 @@ Dosen Pengampu  : Agung Nugroho,S.Kom.,M.Kom
 ```
 
 <h2>Demo Aplikasi dan Domain</h2>
+
 1. Demo terlampir pada link youtube, berikut ini:
 
    https://www.youtube.com/watch?v=8EntpcumFKo
 
 2. Domain aplikasi, berikut ini:
 
-    http://iuran-kas-rt.free.nf/
+   http://iuran-kas-rt.free.nf/
