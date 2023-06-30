@@ -9,7 +9,7 @@
         <div class="pull-right hidden-xs">
             <?php echo "Today is " . date("l"); ?>
         </div>
-        <strong>Copyright &copy; Kelompok 3 Pemrograman Web | Universitas Pelita Bangsa <a href="">Cikarang</a>.</strong>
+        <strong>Copyright &copy; Kelompok 3 - TI.21.A.3 - Pemrograman Web 2 | Universitas Pelita Bangsa <a href="">Cikarang</a>.</strong>
     </div>
     <!-- /.container -->
 </footer>
