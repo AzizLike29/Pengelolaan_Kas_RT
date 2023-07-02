@@ -29,13 +29,13 @@ Dosen Pengampu  : Agung Nugroho,S.Kom.,M.Kom
 
 <h2>Penjelasan</h2>
 
-Sistem pengelolaan data kas RT berbasis web menggunakan CodeIgniter 4 dan MySQL adalah aplikasi yang dirancang untuk membantu pengurus RT dalam mengelola keuangan RT dengan lebih efisien. Sistem ini memanfaatkan framework PHP CodeIgniter 4 sebagai dasar pengembangan aplikasi web dan basis data MySQL sebagai tempat penyimpanan data.
+Sistem pengelolaan data kas RT berbasis web menggunakan CodeIgniter 4 dan MySQL adalah aplikasi yang dirancang untuk membantu pengurus RT dalam mengelola keuangan RT dengan lebih efisien. Sistem ini memanfaatkan framework PHP CodeIgniter 4 sebagai dasar pengembangan aplikasi web dan    basis data MySQL sebagai tempat penyimpanan data.
 
 Dengan sistem ini, pengguna dapat melakukan berbagai tugas penting terkait pengelolaan keuangan RT, termasuk pencatatan transaksi, pelacakan pemasukan dan pengeluaran, serta pembuatan laporan keuangan.
 
 <h2>Usecase Diagram</h2>
 
-1. Usecase Diagram dari Aplikasi Sistem Pengelolaan Kas RT dengan Bootstrap.
+> Usecase Diagram dari Aplikasi Sistem Pengelolaan Kas RT dengan Bootstrap
 
 ![Usecase2](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/96130416/6b04e11c-9f72-40f0-a5b5-d3ef150a7b50)
 
@@ -53,7 +53,7 @@ Dengan sistem ini, pengguna dapat melakukan berbagai tugas penting terkait penge
 
 1.5 Admin dapat melakukan logout,  setelah melakukan logout admin akan ditampilkan kembali ke tampilan awal login Sistem Pengelolaan Kas RT
 
-2. Usecase Diagram dari Aplikasi Sistem Pengelolaan Kas RT dengan 
+> Usecase Diagram dari Aplikasi Sistem Pengelolaan Kas RT dengan 
 
 ![Usecase1](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/96130416/74bb361b-0722-47ad-bec9-4a0790885de5)
 
@@ -61,10 +61,56 @@ Dengan sistem ini, pengguna dapat melakukan berbagai tugas penting terkait penge
 
 2.1 admin dapat melakukan login dengan cara memasukkan email dan password. 
 
-2.2 Admin dapat mengakses Data Warga setelah melakukan login,  admin dapat melihat data warga, dapat mengubah/mengedit Data Warga dan dapat menghapus Data Warga yang telah di tambahkan. 
+2.2 Admin dapat mengakses Data Warga setelah melakukan login,  admin dapat melihat data warga, dapat mengubah/mengedit Data Warga dan dapat  menghapus Data Warga yang telah di tambahkan. 
 
 2.3 Admin dapat mengakses menu Data Iuran Kas, admin dapat melihat data iuran yang telah ditambahkan, dapat mengubah data iuran kas warga, dan juga dapat menghapus data iuran kas warga yang telah di tambahkan. 
 
 2.4 Admin dapat mengakses menu laporan setelah melakuan login. Admin dapat melihat keseluruhan data yang telah di tambahkan,  dan juga dapat mengubah atau menghapus data laporan.
 
 2.5 Admin dapat melakukan logout,  setelah melakukan logout admin akan ditampilkan kembali ke tampilan awal dari sistem pengelolaan kas RT
+
+<h2>Design Rancangan Sistem</h2>
+
+> Wireframe Design dari Aplikasi Sistem Pengelolaan Kas RT dengan Bootstrap
+
+1. Wireframe Design Login
+
+![1  WF Login](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/437e50e3-3632-431d-a923-0b42a4bae71b)
+
+2. Wireframe Design Dashboard
+
+![2  WF Dashboard-Home](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/8dbb5905-364f-477e-9fed-71773786c7ae)
+
+3. Wireframe Design Data Warga
+
+![3  WF Data Warga](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/891958fe-5e79-486b-b036-ea58187ef694)
+
+4. Wireframe Design Data Iuran Kas
+
+![4  WF Data Iuran Kas](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/2e402380-8f1e-4898-96e3-fd55bced4a40)
+
+5. Wireframe Design Document
+
+![5  WF Document](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/516aed87-7dd9-4cb4-89fd-877dfdcc00f3)
+
+6. Wireframe Design Admin
+
+![6  WF Admin](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/b554d63f-8ffe-4d91-a233-8f0225b1941e)
+
+7. Wireframe Design Add Data Warga
+
+![7  WF Add Data Warga](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/7d7cdd3c-6d45-4077-a035-62cf523b88ec)
+
+8. Wireframe Design Add Iuran Kas
+
+![8  WF Add Iuran Kas](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/c1c3f831-a44e-4bc9-a8c2-31bd9d0aa1db)
+
+9. Wireframe Design Add Admin
+
+![9  WF Tambah Admin](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/b92b8a31-4f1d-467a-9574-b21b9a62c1ef)
+
+10. Wireframe Design Logout
+
+![10  WF Logout](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/96df98af-e7c7-4bbd-8f5d-c0922b846776)
+
+> Design dari Aplikasi Sistem Pengelolaan Kas RT dengan Bootstrap
