@@ -25,7 +25,7 @@ Dosen Pengampu  : Agung Nugroho,S.Kom.,M.Kom
 
 <h2>Logo Aplikasi Pengelolaan Kas RT</h2>
 
-![logo project web (1)]<img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/99027675/0aa74b14-d496-4059-84dc-ff1a9baa8453" alt ="logo project web (1)" width ="250">
+<img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/99027675/0aa74b14-d496-4059-84dc-ff1a9baa8453" alt ="logo project web (1)" width ="250">
 
 <h2>Penjelasan</h2>
 
