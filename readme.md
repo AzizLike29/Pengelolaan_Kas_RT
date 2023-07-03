@@ -26,13 +26,13 @@ Dosen Pengampu  : Agung Nugroho,S.Kom.,M.Kom
 <h2>Akses User Login</h2>
 
 ```bash
-Iuran-Kas-RT_1 (Domain Aplikasi)
+- Iuran-Kas-RT_1 (Domain Aplikasi)
 
 Email    : admin@gmail.com
 
 Password : 1234
 
-Iuran-Kas-RT_2
+- Iuran-Kas-RT_2
 
 Email    : admin@email.com
 
