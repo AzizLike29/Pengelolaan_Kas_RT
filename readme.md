@@ -39,7 +39,7 @@ Dengan sistem ini, pengguna dapat melakukan berbagai tugas penting terkait penge
 
 > Usecase Diagram dari Aplikasi Sistem Pengelolaan Kas RT dengan Bootstrap
 
-<img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/96130416/6b04e11c-9f72-40f0-a5b5-d3ef150a7b50" alt ="Usecase2" width ="250">
+<img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/96130416/6b04e11c-9f72-40f0-a5b5-d3ef150a7b50" alt ="Usecase2" width ="400">
 
 <h2>Penjelasan</h2>
 
