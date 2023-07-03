@@ -155,5 +155,76 @@ Dengan sistem ini, pengguna dapat melakukan berbagai tugas penting terkait penge
 
 10. Design Fitur Untuk Logout
 
-![10  Logout](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/a50f5bd9-6f9b-4dd9-a36c-a4312be4a54e)
+![10  Logout](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/a50f5bd9-6f9b-4dd9-a36c-a4312be4a54e) 
+
+<h2>Design Rancangan Sistem Ke-2</h2>
+
+> Wireframe Design dari Aplikasi Sistem Pengelolaan Kas RT dengan templete sederhana
+
+1. Wireframe Dashboard 
+
+![Wireframe Tampilan Dashboard 1](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/e991e285-8e9e-4cf6-ac85-da5fd28e077b)
+
+2. Wireframe Tampilan Login
+
+![Tampilan Login 2](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/6c7adbba-1d0c-4322-9a1c-38814dce60b4)
+
+3. Wireframe Tampilan Data Warga
+
+![Tampilan Data Warga 3](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/27eee403-baa2-42f8-ba77-4a0325d269d7) 
+
+4. Wireframe Tampilan Ubah Data Warga
+
+![Tampilan Ubah Data Warga 4](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/3718b0fe-be76-4057-9d96-38648a5d2688) 
+
+5. Wireframe Tampilan Tambah Data Warga
+
+![Tampilan Tambah Data Warga 5](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/d846fe8f-e333-4b77-bbb5-74a036017572) 
+
+6. Wireframe Tambah Iuran Warga 
+
+![Wireframe Tampilan Iuran Warga 6](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/d9f7c047-29ca-46d7-aa03-9e55c527dfa8) 
+
+7. Wireframe Tampilan Tambah Iuran Warga 
+
+![Tampilan Tambah Iuran Warga 7](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/fbf5a791-c45d-49f9-b4db-3ffb0303b36a) 
+
+8. Wireframe Jumlah kas - rt
+
+![Jumlah kas - rt 8](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/85e19b9f-3e16-4265-90d3-1cf7e114b8ef) 
+
+> Design dari Aplikasi Sistem Pengelolaan Kas RT dengan templete sederhana
+
+1. Design Fitur Tampilan Dashboard
+
+![Tampilan Dashboard 1](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/e54829a9-07e8-4e0e-af91-efa263f15e7d) 
+
+2. Design Fitur Tampilan Login
+
+![Tampilan Login 2](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/5585c721-9f1b-4093-bad0-7495d7fab97b) 
+
+3. Design Fitur Tampilan Data Warga
+
+![Tampilan Data Warga 3](https://githaub.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/6c70976b-21dd-4153-a474-be000cc4c4a2) 
+
+4. Design Fitur Tampilan Tambah Data Warga
+
+![Tampilan Tambah Data Warga 4](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/d6a7e00c-aec3-463c-aeda-cc1cac3c8f6f) 
+
+5. Design Fitur Tampilan Ubah Data Warga
+
+![Tampilan Ubah Data Warga 5](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/f9070cd5-4bf2-486a-b39c-72a9919f3806) 
+
+6. Design Fitur Tampilan Iuran Warga
+
+![Tampilan Iuran Warga 6](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/c0c42777-6ef9-4c66-a4a6-61098e7173cf) 
+
+7. Design Fitur Tampilan Tambah Iuran
+
+![Tampilan Tambah Iuran 7](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/8dbeda04-4bcb-4713-b06f-4aa87c3773ab) 
+
+8. Design Jumlah Kas 
+
+![Tampilan Jumlah Kas 8](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/8d011b7b-e136-4437-a878-6369992f2ffd)
+
 
