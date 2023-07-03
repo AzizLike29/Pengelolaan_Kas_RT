@@ -77,7 +77,7 @@ Dengan sistem ini, pengguna dapat melakukan berbagai tugas penting terkait penge
 
 1. Wireframe Design Login
 
-<img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/437e50e3-3632-431d-a923-0b42a4bae71b" alt ="WF Login" width ="400">
+<img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/437e50e3-3632-431d-a923-0b42a4bae71b" alt ="WF Login" width ="450">
 
 2. Wireframe Design Dashboard
 
