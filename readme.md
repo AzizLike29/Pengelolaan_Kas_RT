@@ -81,7 +81,7 @@ Dengan sistem ini, pengguna dapat melakukan berbagai tugas penting terkait penge
 
 2. Wireframe Design Dashboard
 
-![2  WF Dashboard-Home](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/8dbb5905-364f-477e-9fed-71773786c7ae)
+<img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/8dbb5905-364f-477e-9fed-71773786c7ae" alt ="WF Dashboard-Home" width ="450">
 
 3. Wireframe Design Data Warga
 
