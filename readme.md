@@ -36,7 +36,7 @@ Password : 1234
 
 Email    : admin@email.com
 
-Password : admin1234
+Password : admin123
 ```
 
 <h2>Logo Aplikasi Pengelolaan Kas RT</h2>
