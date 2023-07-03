@@ -23,8 +23,21 @@ Dosen Pengampu  : Agung Nugroho,S.Kom.,M.Kom
 
    https://kas-rt.my.id/
 
-   http://iuran-kas-rt.free.nf/
+```bash
+<h2>Akses User Login</h2>
 
+Iuran-Kas-RT_1 (Domain Aplikasi)
+
+Email    : admin@gmail.com
+
+Password : 1234
+
+Iuran-Kas-RT_2
+
+Email    : admin@email.com
+
+Password : admin1234
+```
 
 <h2>Logo Aplikasi Pengelolaan Kas RT</h2>
 
@@ -37,7 +50,6 @@ Dosen Pengampu  : Agung Nugroho,S.Kom.,M.Kom
 Sistem pengelolaan data kas RT berbasis web menggunakan CodeIgniter 4 dan MySQL adalah aplikasi yang dirancang untuk membantu pengurus RT dalam mengelola keuangan RT dengan lebih efisien. Sistem ini memanfaatkan framework PHP CodeIgniter 4 sebagai dasar pengembangan aplikasi web dan basis data MySQL sebagai tempat penyimpanan data.
 
 Dengan sistem ini, pengguna dapat melakukan berbagai tugas penting terkait pengelolaan keuangan RT, termasuk pencatatan transaksi, pelacakan pemasukan dan pengeluaran, serta pembuatan laporan keuangan.
-
 
 <h2>Usecase Diagram</h2>
 
@@ -59,7 +71,6 @@ Dengan sistem ini, pengguna dapat melakukan berbagai tugas penting terkait penge
 
 1.5 Admin dapat melakukan logout, setelah melakukan logout admin akan ditampilkan kembali ke tampilan awal login Sistem Pengelolaan Kas RT
 
-
 > Usecase Diagram dari Aplikasi Sistem Pengelolaan Kas RT dengan template sederhana
 
 <img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/96130416/74bb361b-0722-47ad-bec9-4a0790885de5" alt ="Usecase1" width ="400">
@@ -75,7 +86,6 @@ Dengan sistem ini, pengguna dapat melakukan berbagai tugas penting terkait penge
 2.4 Admin dapat mengakses menu laporan setelah melakuan login. Admin dapat melihat keseluruhan data yang telah di tambahkan, dan juga dapat mengubah atau menghapus data laporan.
 
 2.5 Admin dapat melakukan logout, setelah melakukan logout admin akan ditampilkan kembali ke tampilan awal dari sistem pengelolaan kas RT
-
 
 <h2>Design Rancangan Sistem</h2>
 
@@ -121,7 +131,6 @@ Dengan sistem ini, pengguna dapat melakukan berbagai tugas penting terkait penge
 
 <img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/96df98af-e7c7-4bbd-8f5d-c0922b846776" alt ="WF Logout" width ="450">
 
-
 > Design dari Aplikasi Sistem Pengelolaan Kas RT dengan Bootstrap
 
 1. Design Fitur Untuk Login
@@ -164,12 +173,11 @@ Dengan sistem ini, pengguna dapat melakukan berbagai tugas penting terkait penge
 
 <img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/a50f5bd9-6f9b-4dd9-a36c-a4312be4a54e" alt = "DF Logout" width = "450">
 
-
 <h2>Design Rancangan Sistem Ke-2</h2>
 
-> Wireframe Design dari Aplikasi Sistem Pengelolaan Kas RT dengan templete sederhana
+> Wireframe Design dari Aplikasi Sistem Pengelolaan Kas RT dengan template sederhana
 
-1. Wireframe Dashboard 
+1. Wireframe Dashboard
 
 <img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/e991e285-8e9e-4cf6-ac85-da5fd28e077b" alt = "WF Dashboard 1" width = "450">
 
@@ -189,20 +197,19 @@ Dengan sistem ini, pengguna dapat melakukan berbagai tugas penting terkait penge
 
 <img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/d846fe8f-e333-4b77-bbb5-74a036017572" alt = "WF Tambah Data Warga" width = "450">
 
-6. Wireframe Tambah Iuran Warga 
+6. Wireframe Tambah Iuran Warga
 
 <img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/d9f7c047-29ca-46d7-aa03-9e55c527dfa8" alt = "WF Tambah Iuran Warga" width = "450">
 
-7. Wireframe Tampilan Tambah Iuran Warga 
+7. Wireframe Tampilan Tambah Iuran Warga
 
-<img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/fbf5a791-c45d-49f9-b4db-3ffb0303b36a" alt = "WF Tampilan Tambah Iuran Warga" width = "450"> 
+<img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/fbf5a791-c45d-49f9-b4db-3ffb0303b36a" alt = "WF Tampilan Tambah Iuran Warga" width = "450">
 
 8. Wireframe Jumlah kas - rt
 
 <img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/85e19b9f-3e16-4265-90d3-1cf7e114b8ef" alt = "WF Jumlah Kas RT" width = "450">
 
-
-> Design dari Aplikasi Sistem Pengelolaan Kas RT dengan templete sederhana
+> Design dari Aplikasi Sistem Pengelolaan Kas RT dengan template sederhana
 
 1. Design Fitur Tampilan Dashboard
 
@@ -232,6 +239,8 @@ Dengan sistem ini, pengguna dapat melakukan berbagai tugas penting terkait penge
 
 <img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/8dbeda04-4bcb-4713-b06f-4aa87c3773ab" alt = "DF Tambah Iuran" width = "450">
 
-8. Design Jumlah Kas 
+8. Design Jumlah Kas
 
 <img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/8d011b7b-e136-4437-a878-6369992f2ffd" alt = "DF Jumlah Kas" width = "450">
+
+> Sekian dan Terima Kasih
