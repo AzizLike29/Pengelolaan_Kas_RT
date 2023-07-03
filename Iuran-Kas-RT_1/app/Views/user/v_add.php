@@ -4,7 +4,7 @@
     <div class="col-md-6">
         <div class="box box-primary box-solid">
             <div class="box-header with-border">
-                <h3 class="box-title">Add Admin</h3>
+                <h3 class="box-title">Tambah Admin</h3>
 
 
                 <!-- /.box-tools -->

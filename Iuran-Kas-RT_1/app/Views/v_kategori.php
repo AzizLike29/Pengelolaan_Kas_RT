@@ -68,7 +68,7 @@
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span></button>
-                <h4 class="modal-title">Add Data</h4>
+                <h4 class="modal-title">Tambah Data</h4>
             </div>
             <div class="modal-body">
                 <?php
@@ -126,7 +126,7 @@
                 <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span></button>
-                    <h4 class="modal-title">Edit Data</h4>
+                    <h4 class="modal-title">Ubah Data</h4>
                 </div>
                 <div class="modal-body">
                     <?php
@@ -185,7 +185,7 @@
                 <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span></button>
-                    <h4 class="modal-title">Delete Data</h4>
+                    <h4 class="modal-title">Hapus Data</h4>
                 </div>
                 <div class="modal-body">
 

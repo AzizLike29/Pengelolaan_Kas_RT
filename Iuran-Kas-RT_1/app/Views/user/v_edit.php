@@ -4,7 +4,7 @@
     <div class="col-md-6">
         <div class="box box-primary box-solid">
             <div class="box-header with-border">
-                <h3 class="box-title">Edit Admin</h3>
+                <h3 class="box-title">Ubah Admin</h3>
 
 
                 <!-- /.box-tools -->
