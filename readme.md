@@ -55,7 +55,7 @@ Dengan sistem ini, pengguna dapat melakukan berbagai tugas penting terkait penge
 
 1.5 Admin dapat melakukan logout, setelah melakukan logout admin akan ditampilkan kembali ke tampilan awal login Sistem Pengelolaan Kas RT
 
-> Usecase Diagram dari Aplikasi Sistem Pengelolaan Kas RT dengan template sederrhana
+> Usecase Diagram dari Aplikasi Sistem Pengelolaan Kas RT dengan template sederhana
 
 <img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/96130416/74bb361b-0722-47ad-bec9-4a0790885de5" alt ="Usecase1" width ="400">
 
@@ -119,43 +119,43 @@ Dengan sistem ini, pengguna dapat melakukan berbagai tugas penting terkait penge
 
 1. Design Fitur Untuk Login
 
-![1  Login](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/60f299d0-2c9e-4a8e-9959-6513b5ff5e37)
+<img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/60f299d0-2c9e-4a8e-9959-6513b5ff5e37" alt ="DF Login" width ="450">
 
 2. Design Fitur Untuk Dashboard
 
-![2  Beranda](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/f0b06971-b3b8-454a-b1fa-9aeb24342c99)
+<img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/f0b06971-b3b8-454a-b1fa-9aeb24342c99" alt = "DF Dashboard" width = "450">
 
 3. Design Fitur Untuk Data Warga
 
-![3  Data Warga](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/50e110be-b7ae-4d8f-bb31-492cd7e625e3)
+<img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/50e110be-b7ae-4d8f-bb31-492cd7e625e3" alt = "DF Data Warga" width = "450">
 
 4. Design Fitur Untuk Data Iuran Kas
 
-![4  Data Iuran Kas](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/8887a322-7961-41e1-96e4-9def142a5940)
+<img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/8887a322-7961-41e1-96e4-9def142a5940" alt = "DF Data Iuran Kas" width = "450">
 
 5. Design Fitur Untuk Document Warga
 
-![5  Document](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/c171a3ec-cf16-47a1-993a-835ad0fca97c)
+<img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/c171a3ec-cf16-47a1-993a-835ad0fca97c" alt = "DF Dokumen Warga" width = "450">
 
 6. Design Fitur Untuk Admin Iuran Kas
 
-![6  Admin](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/f2e314c7-1fcf-4753-a909-8c2dab216e81)
+<img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/f2e314c7-1fcf-4753-a909-8c2dab216e81" alt = "DF Admin Iuran Kas" width = "450">
 
 7. Design Fitur Untuk Menambahkan Data Warga
 
-![7  Add Data Warga](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/24de394e-d4af-425f-aa6d-3f9cbfc409ba)
+<img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/24de394e-d4af-425f-aa6d-3f9cbfc409ba" alt = "DF Add Data Warga" width = "450">
 
 8. Design Fitur Untuk Menambahkan Iuran Kas
 
-![8  Add Iuran Kas](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/0de6033c-a974-456c-857c-fb226e8177e1)-
+<img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/0de6033c-a974-456c-857c-fb226e8177e1" alt = "DF Add Iuran Kas" width = "450">
 
 9. Design Fitur Untuk Menambahkan Admin
 
-![9  Add Admin](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/6b132320-c77e-4326-94d1-4c2a4ac43085)
+<img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/6b132320-c77e-4326-94d1-4c2a4ac43085" alt = "DF Add Admin" width = "450">
 
 10. Design Fitur Untuk Logout
 
-![10  Logout](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/a50f5bd9-6f9b-4dd9-a36c-a4312be4a54e) 
+<img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/a50f5bd9-6f9b-4dd9-a36c-a4312be4a54e" alt = "DF Logout" width = "450">
 
 <h2>Design Rancangan Sistem Ke-2</h2>
 
@@ -163,68 +163,66 @@ Dengan sistem ini, pengguna dapat melakukan berbagai tugas penting terkait penge
 
 1. Wireframe Dashboard 
 
-![Wireframe Tampilan Dashboard 1](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/e991e285-8e9e-4cf6-ac85-da5fd28e077b)
+<img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/e991e285-8e9e-4cf6-ac85-da5fd28e077b" alt = "WF Dashboard 1" width = "450">
 
 2. Wireframe Tampilan Login
 
-![Tampilan Login 2](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/6c7adbba-1d0c-4322-9a1c-38814dce60b4)
+<img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/6c7adbba-1d0c-4322-9a1c-38814dce60b4" alt = "WF Login" width = "450">
 
 3. Wireframe Tampilan Data Warga
 
-![Tampilan Data Warga 3](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/27eee403-baa2-42f8-ba77-4a0325d269d7) 
+<img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/27eee403-baa2-42f8-ba77-4a0325d269d7" alt = "WF Data Warga" width = "450">
 
 4. Wireframe Tampilan Ubah Data Warga
 
-![Tampilan Ubah Data Warga 4](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/3718b0fe-be76-4057-9d96-38648a5d2688) 
+<img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/3718b0fe-be76-4057-9d96-38648a5d2688" alt = "WF Ubah Data Warga" width = "450">
 
 5. Wireframe Tampilan Tambah Data Warga
 
-![Tampilan Tambah Data Warga 5](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/d846fe8f-e333-4b77-bbb5-74a036017572) 
+<img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/d846fe8f-e333-4b77-bbb5-74a036017572" alt = "WF Tambah Data Warga" width = "450">
 
 6. Wireframe Tambah Iuran Warga 
 
-![Wireframe Tampilan Iuran Warga 6](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/d9f7c047-29ca-46d7-aa03-9e55c527dfa8) 
+<img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/d9f7c047-29ca-46d7-aa03-9e55c527dfa8" alt = "WF Tambah Iuran Warga" width = "450">
 
 7. Wireframe Tampilan Tambah Iuran Warga 
 
-![Tampilan Tambah Iuran Warga 7](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/fbf5a791-c45d-49f9-b4db-3ffb0303b36a) 
+<img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/fbf5a791-c45d-49f9-b4db-3ffb0303b36a" alt = "WF Tampilan Tambah Iuran Warga" width = "450"> 
 
 8. Wireframe Jumlah kas - rt
 
-![Jumlah kas - rt 8](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/85e19b9f-3e16-4265-90d3-1cf7e114b8ef) 
+<img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/85e19b9f-3e16-4265-90d3-1cf7e114b8ef" alt = "WF Jumlah Kas RT" width = "450">
 
 > Design dari Aplikasi Sistem Pengelolaan Kas RT dengan templete sederhana
 
 1. Design Fitur Tampilan Dashboard
 
-![Tampilan Dashboard 1](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/e54829a9-07e8-4e0e-af91-efa263f15e7d) 
+<img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/e54829a9-07e8-4e0e-af91-efa263f15e7d" alt = "DF Dasboard 1" width = "450">
 
 2. Design Fitur Tampilan Login
 
-![Tampilan Login 2](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/5585c721-9f1b-4093-bad0-7495d7fab97b) 
+<img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/5585c721-9f1b-4093-bad0-7495d7fab97b" alt = "DF LLogin" width = "450">
 
 3. Design Fitur Tampilan Data Warga
 
-![Tampilan Data Warga 3](https://githaub.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/6c70976b-21dd-4153-a474-be000cc4c4a2) 
+<img src = "https://githaub.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/6c70976b-21dd-4153-a474-be000cc4c4a2" alt = "DF Data Warga" width = "450">
 
 4. Design Fitur Tampilan Tambah Data Warga
 
-![Tampilan Tambah Data Warga 4](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/d6a7e00c-aec3-463c-aeda-cc1cac3c8f6f) 
+<img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/d6a7e00c-aec3-463c-aeda-cc1cac3c8f6f" alt = "DF Tambah Data Warga" width = "450">
 
 5. Design Fitur Tampilan Ubah Data Warga
 
-![Tampilan Ubah Data Warga 5](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/f9070cd5-4bf2-486a-b39c-72a9919f3806) 
+<img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/f9070cd5-4bf2-486a-b39c-72a9919f3806" alt = "DF Ubah Data Warga" width = "450">
 
 6. Design Fitur Tampilan Iuran Warga
 
-![Tampilan Iuran Warga 6](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/c0c42777-6ef9-4c66-a4a6-61098e7173cf) 
+<img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/c0c42777-6ef9-4c66-a4a6-61098e7173cf" alt = "DF Iuran Warga" width = "450">
 
 7. Design Fitur Tampilan Tambah Iuran
 
-![Tampilan Tambah Iuran 7](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/8dbeda04-4bcb-4713-b06f-4aa87c3773ab) 
+<img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/8dbeda04-4bcb-4713-b06f-4aa87c3773ab" alt = "DF Tambah Iuran" width = "450">
 
 8. Design Jumlah Kas 
 
-![Tampilan Jumlah Kas 8](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/8d011b7b-e136-4437-a878-6369992f2ffd)
-
-
+<img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/8d011b7b-e136-4437-a878-6369992f2ffd" alt = "DF Jumlah Kas" width = "450">
