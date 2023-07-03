@@ -23,9 +23,9 @@ Dosen Pengampu  : Agung Nugroho,S.Kom.,M.Kom
 
    https://kas-rt.my.id/
 
-```bash
 <h2>Akses User Login</h2>
 
+```bash
 Iuran-Kas-RT_1 (Domain Aplikasi)
 
 Email    : admin@gmail.com
@@ -243,4 +243,4 @@ Dengan sistem ini, pengguna dapat melakukan berbagai tugas penting terkait penge
 
 <img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118242551/8d011b7b-e136-4437-a878-6369992f2ffd" alt = "DF Jumlah Kas" width = "450">
 
-> Sekian dan Terima Kasih
+<h3> Sekian dan Terima Kasih </h3>
