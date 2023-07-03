@@ -85,34 +85,34 @@ Dengan sistem ini, pengguna dapat melakukan berbagai tugas penting terkait penge
 
 3. Wireframe Design Data Warga
 
-![3  WF Data Warga](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/891958fe-5e79-486b-b036-ea58187ef694)
+<img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/891958fe-5e79-486b-b036-ea58187ef694" alt ="WF Data Warga" width ="450">
 
 4. Wireframe Design Data Iuran Kas
 
-![4  WF Data Iuran Kas](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/2e402380-8f1e-4898-96e3-fd55bced4a40)
+<img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/2e402380-8f1e-4898-96e3-fd55bced4a40" alt ="WF Data Iuran Kas" width ="450">
 
 5. Wireframe Design Document
 
-![5  WF Document](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/516aed87-7dd9-4cb4-89fd-877dfdcc00f3)
+<img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/516aed87-7dd9-4cb4-89fd-877dfdcc00f3" alt ="WF Document" width ="450">
 
 6. Wireframe Design Admin
 
-![6  WF Admin](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/b554d63f-8ffe-4d91-a233-8f0225b1941e)
+<img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/b554d63f-8ffe-4d91-a233-8f0225b1941e" alt ="WF Admin" width ="450">
 
 7. Wireframe Design Add Data Warga
 
-![7  WF Add Data Warga](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/7d7cdd3c-6d45-4077-a035-62cf523b88ec)
+<img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/7d7cdd3c-6d45-4077-a035-62cf523b88ec" alt ="WF Add Data Warga" width ="450">
 
 8. Wireframe Design Add Iuran Kas
 
-![8  WF Add Iuran Kas](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/c1c3f831-a44e-4bc9-a8c2-31bd9d0aa1db)
+<img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/c1c3f831-a44e-4bc9-a8c2-31bd9d0aa1db" alt ="WF Add Iuran Kas" width ="450">
 
 9. Wireframe Design Add Admin
 
-![9  WF Tambah Admin](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/b92b8a31-4f1d-467a-9574-b21b9a62c1ef)
+<img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/b92b8a31-4f1d-467a-9574-b21b9a62c1ef" alt ="WF Tambah Admin" width ="450">
 
 10. Wireframe Design Logout
 
-![10  WF Logout](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/96df98af-e7c7-4bbd-8f5d-c0922b846776)
+<img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/118416658/96df98af-e7c7-4bbd-8f5d-c0922b846776" alt ="WF Logout" width ="450">
 
-> Design dari Aplikasi Sistem Pengelolaan Kas RT dengan Bootstrap
+> Design dari Aplikasi Sistem Pengelolaan Kas RT dengan template sederhana
