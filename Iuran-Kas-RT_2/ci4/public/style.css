@@ -112,7 +112,6 @@ div.mb-3 {
 
 /* Isi */
 h1 {
-  /* margin-bottom: 50px; */
   margin: 10px 10px;
   color: cornsilk;
   text-align: center;
@@ -137,6 +136,7 @@ h1 {
   opacity: 80%;
 }
 
+/* menu tombol */
 button[type="submit"] {
   margin: 4px;
   padding: 8px;
