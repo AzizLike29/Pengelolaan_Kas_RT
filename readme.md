@@ -55,9 +55,9 @@ Dengan sistem ini, pengguna dapat melakukan berbagai tugas penting terkait penge
 
 1.5 Admin dapat melakukan logout, setelah melakukan logout admin akan ditampilkan kembali ke tampilan awal login Sistem Pengelolaan Kas RT
 
-> Usecase Diagram dari Aplikasi Sistem Pengelolaan Kas RT dengan
+> Usecase Diagram dari Aplikasi Sistem Pengelolaan Kas RT dengan template sederrhana
 
-![Usecase1](https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/96130416/74bb361b-0722-47ad-bec9-4a0790885de5)
+<img src = "https://github.com/AzizLike29/Pengelolaan_Kas_RT/assets/96130416/74bb361b-0722-47ad-bec9-4a0790885de5" alt ="Usecase1" width ="400">
 
 <h2>Penjelasan</h2>
 
