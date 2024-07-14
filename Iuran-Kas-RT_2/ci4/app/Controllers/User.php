@@ -19,36 +19,29 @@ class User extends BaseController
         helper(['form']);
         $email = $this->request->getPost('email');
         $password = $this->request->getPost('password');
-        if (!$email)
-        {
+        if (!$email) {
             return view('user/login');
         }
 
         $session = session();
         $model = new UserModel();
         $login = $model->where('useremail', $email)->first();
-        if ($login)
-        {
+        if ($login) {
             $pass = $login['userpassword'];
-            if (password_verify($password, $pass))
-            {
-            $login_data = [
-                'user_id' => $login['id'],
-                'user_name' => $login['username'],
-                'user_email' => $login['useremail'],
-                'logged_in' => TRUE,
-            ];
-            $session->set($login_data);
-            return redirect('admin/data_warga');
-        }
-        else
-        {
-            $session->setFlashdata("flash_msg", "Password salah.");
-            return redirect()->to('/user/login');
+            if (password_verify($password, $pass)) {
+                $login_data = [
+                    'user_id' => $login['id'],
+                    'user_name' => $login['username'],
+                    'user_email' => $login['useremail'],
+                    'logged_in' => TRUE,
+                ];
+                $session->set($login_data);
+                return redirect('admin/data_warga');
+            } else {
+                $session->setFlashdata("flash_msg", "Password salah.");
+                return redirect()->to('/user/login');
             }
-        }
-        else
-        {
+        } else {
             $session->setFlashdata("flash_msg", "email tidak terdaftar.");
             return redirect()->to('/user/login');
         }
